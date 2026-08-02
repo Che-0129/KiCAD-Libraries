@@ -3,5 +3,4 @@
 	(lib (name "NCP563SQ18T1G") (type "KiCad") (uri "./symbols/NCP563SQ18T1G.kicad_sym") (options "") (descr ""))
 	(lib (name "PMW3610") (type "KiCad") (uri "./symbols/PMW3610.kicad_sym") (options "") (descr ""))
 	(lib (name "RP2040-Zero") (type "KiCad") (uri "./symbols/RP2040-Zero.kicad_sym") (options "") (descr ""))
-	(lib (name "MDBT50Q-1MV2") (type "KiCad") (uri "./symbols/MDBT50Q-1MV2.kicad_sym") (options "") (descr ""))
 )
