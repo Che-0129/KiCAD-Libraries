@@ -1,6 +1,7 @@
 (sym_lib_table
 	(version 7)
 	(lib (name "NCP563SQ18T1G") (type "KiCad") (uri "./symbols/NCP563SQ18T1G.kicad_sym") (options "") (descr ""))
+	(lib (name "NJM12888F33") (type "KiCad") (uri "./symbols/NJM12888F33.kicad_sym") (options "") (descr ""))
 	(lib (name "PMW3610") (type "KiCad") (uri "./symbols/PMW3610.kicad_sym") (options "") (descr ""))
 	(lib (name "RP2040-Zero") (type "KiCad") (uri "./symbols/RP2040-Zero.kicad_sym") (options "") (descr ""))
 )
